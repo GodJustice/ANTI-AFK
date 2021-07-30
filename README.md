@@ -2,7 +2,7 @@
 If you someone mentioned you. it will reply in 43 seconds. it will reply random words such as:
 nope wyd, no, ?, son and etc.
 ### Usage
-Make sure you put your token in config file and it will work.
+Make sure you put your discord token in config file and it will work.
 
 ![Image](/Images/1.png)
 ### Legality
